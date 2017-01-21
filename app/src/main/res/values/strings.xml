@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+    <string name="enter_user_name">Enter username</string>
+    <string name="get">Get Data</string>
+    <string name="name">Name</string>
+    <string name="divider">:</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="email">Email</string>
+</resources>
